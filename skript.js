@@ -1,0 +1,1 @@
+const Inhalt = 100;
